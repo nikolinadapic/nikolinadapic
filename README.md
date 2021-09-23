@@ -1,5 +1,5 @@
 - 👋🏻 Hi, I’m Nikolina Đapić
-- 🎓 Education: Bachelor's degree in Computer Engineering at FESB, Split; currently a student of the 2nd year of Master's degree of Computer Engineering
+- 🎓 Education: Bachelor's degree in Computer Engineering at FESB, Split; Master's degree in Computer Engineering at FESB, Split
 - 🏢 Work: Software Developer at Agency04
 - 📫 How to reach me: nikolina.dapic@gmail.com
 
